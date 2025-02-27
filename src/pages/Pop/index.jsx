@@ -78,13 +78,13 @@ export default function PopPage() {
         <div className="rounded-[40px] bg-teal-100 max-w-6xl p-6 border-2 border-teal-300 shadow-md">
           <div className="flex justify-center">
             <h3 className="text-teal-800 text-2xl font-semibold pb-2 mb-4 border-b-2 border-teal-300 inline-block">
-              Pop page
+              Map Page
             </h3>
           </div>
 
 
           <p className="text-teal-700 text-xl mb-4 leading-relaxed justify-start">
-            When you click on the button, a map will appear, allowing you to explore the campus.  
+            When you click the button, a map will appear, allowing you to explore the campus.  
             <br />As you select different buildings on the map, the avatar will speak and provide  
             detailed information about each location.<br />You can also scan a QR code on a building  
             to quickly navigate to its specific page.
